@@ -1,0 +1,14 @@
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\bin\Debug\net6.0\ConsoleAppAula1.exe
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\bin\Debug\net6.0\ConsoleAppAula1.deps.json
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\bin\Debug\net6.0\ConsoleAppAula1.runtimeconfig.json
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\bin\Debug\net6.0\ConsoleAppAula1.dll
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\bin\Debug\net6.0\ConsoleAppAula1.pdb
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net6.0\ConsoleAppAula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net6.0\ConsoleAppAula1.AssemblyInfoInputs.cache
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net6.0\ConsoleAppAula1.AssemblyInfo.cs
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net6.0\ConsoleAppAula1.csproj.CoreCompileInputs.cache
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net6.0\ConsoleAppAula1.dll
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net6.0\refint\ConsoleAppAula1.dll
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net6.0\ConsoleAppAula1.pdb
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net6.0\ConsoleAppAula1.genruntimeconfig.cache
+D:\Downloads\Visual Studio\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net6.0\ref\ConsoleAppAula1.dll
